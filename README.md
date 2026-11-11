@@ -1,5 +1,7 @@
 # tuisignal
 
+**Français** · [English](README.en.md) · [Deutsch](README.de.md)
+
 Client [Signal](https://signal.org) en mode console (TUI) pour Linux : envoyer et recevoir des
 messages, des fichiers et des images, en conversation directe ou en groupe.
 
